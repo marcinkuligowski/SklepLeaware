@@ -1,0 +1,16 @@
+﻿
+@*@{
+    ViewBag.Title = "LoggedIn";
+}
+
+@if (Session["UserId"] != null)
+{
+    <h4>Hello @Session["Username"].ToString() !!</h4>
+
+    <ul class="nav nav-pills">
+        <li role="presentation" class="active"> @Html.ActionLink("Home", "LoggedIn")</li>
+        <li role="presentation">@Html.ActionLink("Store", "Login")</li>
+        <li role="presentation"><a href="#">Messages</a></li>
+    </ul>
+}*@
+

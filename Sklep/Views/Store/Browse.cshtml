@@ -1,0 +1,26 @@
+﻿@model Model.Models.Category
+
+@{
+    ViewBag.Title = "Browse";
+}
+
+<h2>Browse</h2>
+
+<table class="table table-responsive">
+    <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Order</th>
+    </tr>
+    @foreach (var product in Model.Products)
+    {
+        <tr>
+            <td>@Html.ActionLink(@product.Name, "Details", new { id = product.ProductId })</td>
+            <td>@product.Price</td>
+            <td><button type="button" class="btn btn-default">@Html.ActionLink("Add tocart", "AddToCart", "ShopingCart", new { id = product.ProductId }, "")</button></td>
+        </tr>
+
+
+    }
+
+</table>

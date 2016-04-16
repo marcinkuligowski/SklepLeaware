@@ -1,0 +1,260 @@
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\ApplicationInsights.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Sklep.dll.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Sklep.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Sklep.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\System.Web.Webpages.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\System.Web.Webpages.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\obj\Debug\Sklep.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\obj\Debug\Sklep.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\obj\Debug\Sklep.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Sklep\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\ApplicationInsights.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Sklep.dll.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Sklep.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Sklep.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\System.Web.Webpages.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\System.Web.Webpages.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\obj\Debug\Sklep.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\obj\Debug\Sklep.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Sklep\obj\Debug\Sklep.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\ApplicationInsights.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Sklep.dll.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Sklep.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Sklep.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\System.Web.Webpages.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\System.Web.Webpages.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\obj\Debug\Sklep.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\obj\Debug\Sklep.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Sklep\obj\Debug\Sklep.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\obj\Debug\Sklep.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\obj\Debug\Sklep.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\obj\Debug\Sklep.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\ApplicationInsights.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Sklep.dll.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Sklep.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Sklep.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\System.Web.Webpages.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\System.Web.Webpages.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Sklep\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\ApplicationInsights.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Sklep.dll.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Sklep.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Sklep.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\System.Web.Webpages.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\System.Web.Webpages.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\obj\Debug\Sklep.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\obj\Debug\Sklep.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Sklep\obj\Debug\Sklep.pdb

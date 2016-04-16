@@ -1,0 +1,18 @@
+﻿@model Model.Models.Order
+
+@{
+    ViewBag.Title = "Address And Payment";
+}
+
+
+@using (Html.BeginForm())
+{
+
+    <h2>Address And Payment</h2>
+    <fieldset >
+        <legend>Shipping Information</legend>
+        @Html.EditorForModel()
+    </fieldset>
+    
+    <input type="submit" value="Submit Order" />
+}

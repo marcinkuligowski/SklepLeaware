@@ -1,0 +1,49 @@
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Model\bin\Debug\Model.dll.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Model\bin\Debug\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Model\bin\Debug\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Model\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Model\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Model\obj\Debug\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep\Model\obj\Debug\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Model\bin\Debug\Model.dll.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Model\bin\Debug\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Model\bin\Debug\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Model\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Model\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Model\obj\Debug\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Copy\Model\obj\Debug\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Model\bin\Debug\Model.dll.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Model\bin\Debug\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Model\bin\Debug\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Model\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Model\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Model\obj\Debug\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable\Model\obj\Debug\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Model\obj\Debug\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Model\obj\Debug\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Model\bin\Debug\Model.dll.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Model\bin\Debug\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Model\bin\Debug\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Model\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Model\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Stable - Copy\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Model\obj\Debug\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Model\obj\Debug\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Model\bin\Debug\Model.dll.config
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Model\bin\Debug\Model.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Model\bin\Debug\Model.pdb
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Model\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Model\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Desktop\Zadanie Leawear\Sklep - Działajacy - Copy\Model\bin\Debug\EntityFramework.SqlServer.xml
